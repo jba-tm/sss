@@ -32,3 +32,8 @@ Didn't see a lot of examples out there for this framework, so decided to create 
 * Use query parameters to filter
  
 ## Step 7: Modal to add stock tickers via UI
+
+
+
+# Issues backend
+    
